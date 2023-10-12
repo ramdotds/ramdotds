@@ -51,37 +51,38 @@
     Kaggle : https://www.kaggle.com/ramdotds
     
 ## **ACHIEVEMENTS**
-  ★ We got first prize on running competition in intermediate.
-  ★ Received good score in kaggle competitions.
-  ★ We Made some Generative AI projects.
+  ★ We got first prize on running competition in intermediate.<br>
+  ★ Received good score in kaggle competitions.<br>
+  ★ We Made some Generative AI projects.<br>
   
 ## **TECHNICAL SKILLS**
-  ● Languages : C, Python , SQL
+  ● Languages : C, Python , SQL<br>
   ● Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow,
-    OpenCV, NLTK, PyTorch, Scipy , Flask, etc.
+    OpenCV, NLTK, PyTorch, Scipy , Flask, etc.<br>
   ● Data Science, Data Analysis, Machine Learning, Deep Learning, Artificial Intelligence, Computer
-    Vision, Natural Language Processing, etc.
-  ● Aws, Azure, Heroku etc.
+    Vision, Natural Language Processing, etc.<br>
+  ● Aws, Azure, Heroku etc.<br>
   ● Software Tools: Jupyter notebook, Spyder, PyCharm, VS Code, Google Colab Analysis, Google
-    Trend, etc.
-  ● MS Excel , PowerPoint, Ms word, Tableau
-  ● Other : Html, Css , Java Script, Node js, Express js, React js , Flask, etc.
+    Trend, etc.<br>
+  ● MS Excel , PowerPoint, Ms word, Tableau<br>
+  ● Other : Html, Css , Java Script, Node js, Express js, React js , Flask, etc.<br>
   
 ## **PERSONAL DETAIL**
-  ● Name                                  : Ram (Ram Lakhan)
-  ● Date of Birth                             : 15th July 2000
-  ● Permanent Address                      : Uttar Pradesh ( India )
-  ● Languages Known                        : English, Hindi
-  ● Gender                                 : Male
-  ● Marital Status                         : Unmarried
-  ● Nationality                            : Indian
-  ● Hobbies                                : Reading Books and Stories, Sharing Knowledge,Write (any topic)
-  ● Area of Interest                       : Artificial Intelligence, Robotics, Internet of Things
-  ● Strengths                              : Give 100 percent effort to complete perfect work, Learning
-                                           Attitude, Perfect Hard Worker, Always Energetic
+    ● Name                    : Ram (Ram Lakhan) <br>
+    ● Date of Birth           : 15th July 2000<br>
+    ● Permanent Address       : Uttar Pradesh ( India )<br>
+    ● Languages Known         : English, Hindi<br>
+    ● Gender                  : Male<br>
+    ● Marital Status          : Unmarried<br>
+    ● Nationality             : Indian<br>
+    ● Hobbies                 : Reading Books and Stories, Sharing Knowledge,Write (any topic)<br>
+    ● Area of Interest        : Artificial Intelligence, Robotics, Internet of Things<br>
+    ● Strengths               : Give 100 percent effort to complete perfect work, Learning
+                                Attitude, Perfect Hard Worker, Always Energetic     <br>                       
 ## **DECLARATION**
 I do hereby declare that the above mentioned information is correct up to my knowledge and I
 bear the responsibility for the correctness of the above mentioned particulars.
 
-Date: 12/10/2023                                                       **RAM**
+**RAM**
+Date: 12/10/2023
 Place: India
