@@ -68,21 +68,21 @@
   ● Other : Html, Css , Java Script, Node js, Express js, React js , Flask, etc.<br>
   
 ## **PERSONAL DETAIL**
-    ● Name                    : Ram (Ram Lakhan) <br>
-    ● Date of Birth           : 15th July 2000<br>
-    ● Permanent Address       : Uttar Pradesh ( India )<br>
-    ● Languages Known         : English, Hindi<br>
-    ● Gender                  : Male<br>
-    ● Marital Status          : Unmarried<br>
-    ● Nationality             : Indian<br>
-    ● Hobbies                 : Reading Books and Stories, Sharing Knowledge,Write (any topic)<br>
-    ● Area of Interest        : Artificial Intelligence, Robotics, Internet of Things<br>
+    ● Name                    : Ram (Ram Lakhan)
+    ● Date of Birth           : 15th July 2000
+    ● Permanent Address       : Uttar Pradesh ( India )
+    ● Languages Known         : English, Hindi
+    ● Gender                  : Male
+    ● Marital Status          : Unmarried
+    ● Nationality             : Indian
+    ● Hobbies                 : Reading Books and Stories, Sharing Knowledge,Write (any topic)
+    ● Area of Interest        : Artificial Intelligence, Robotics, Internet of Things.
     ● Strengths               : Give 100 percent effort to complete perfect work, Learning
-                                Attitude, Perfect Hard Worker, Always Energetic     <br>                       
+                                Attitude, Perfect Hard Worker, Always Energetic.                      
 ## **DECLARATION**
 I do hereby declare that the above mentioned information is correct up to my knowledge and I
 bear the responsibility for the correctness of the above mentioned particulars.
 
 **RAM**<br>
-Date: 12/10/2023<br>
+Date: 14/10/2023<br>
 Place: India<br>
